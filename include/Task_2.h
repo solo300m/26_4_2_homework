@@ -3,6 +3,8 @@
 
 #pragma once
 
+#include "BookPhon.h"
+
 #include <iostream>
 
 // TODO: установите здесь ссылки на дополнительные заголовки, требующиеся для программы.
